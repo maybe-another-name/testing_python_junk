@@ -25,4 +25,4 @@ The pip install should make it runnable with a command (from inside the virtual 
 
     (venv) user@pc:~/git/testing_python_junk$ stuff 
     file binary contents:  b'only the tastiest bits'
-    file file contents:  only the tastiest bi
+    file file contents:  only the tastiest bits
