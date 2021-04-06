@@ -1,4 +1,5 @@
 import tarfile
+import sys
 
 # this works
 with tarfile.open("one_file.tar") as tar_file:
