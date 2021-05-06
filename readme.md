@@ -1,5 +1,5 @@
-getting started
-===============
+# Getting Started
+
 
 setup the virtual env
 
@@ -18,8 +18,7 @@ changes often require full uninstall/reinstall
     pip install .
 
 
-running it
-----------
+# Running It
 
 The pip install should make it runnable with a command (from inside the virtual env), like so:
 
